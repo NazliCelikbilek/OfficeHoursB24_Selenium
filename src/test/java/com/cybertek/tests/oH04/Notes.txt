@@ -1,0 +1,12 @@
+Tasting Framework
+configuration.properties: Test Data (changing the course of your Test data,environment or browser
+it is in key value format
+
+Utility Classes:
+    General utilities:
+        Driver Class(Singleton Design concept)
+        Browser Util
+        Conf.Reader
+    Project related utilities
+        smartbearUtils
+        officeUtils
